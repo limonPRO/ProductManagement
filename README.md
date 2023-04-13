@@ -1,5 +1,5 @@
 # ProductManagement
-simple rest app using knex-my sql-express js
+simple rest api using knex-mysql-express js
 # ProductManagement
 
 --for package installation---
